@@ -2,7 +2,7 @@
 
 Este projeto consiste em investigar diferentes configurações de uma rede MLP(Multi Layer Perceptron) para resolver o 
 problema [Red Wine Quality](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009). Desse modo, esse dataset deve ser tratado como um problema 
-para previsão da qualidade do vinho com base nos outros 11 atributos do dataset. Os 
+para previsão da qualidade do vinho com base nos outros 11 atributos do dataset [winequality-red.csv](https://github.com/AlessandroVasconcelos/Classificador-da-Qualidade-do-Vinho-Tinto-com-Rede-MLP/blob/main/winequality-red.csv). Os 
 parâmetros investigados foram:
 - Taxa de aprendizagem;
 - Quantidade de neurônios por camada;
