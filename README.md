@@ -1,13 +1,16 @@
 # Classificador da Qualidade do Vinho Tinto com Rede Neural MLP
 
-Este projeto consiste em diferentes configurações de uma rede MLP(Multi Layer Perceptron) para resolver o 
+Este projeto consiste em investigar diferentes configurações de uma rede MLP(Multi Layer Perceptron) para resolver o 
 problema [Red Wine Quality](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009). Desse modo, esse dataset deve ser tratado como um problema 
 para previsão da qualidade do vinho com base nos outros 11 atributos do dataset. Os 
 parâmetros investigados foram:
 - Taxa de aprendizagem;
 - Quantidade de neurônios por camada;
 - Quantidade de camadas;
-- Função de perda.    
+- Função de perda.
+- 
+## Solução
+Portanto, foi utilizada uma classificação binária do conjunto de dados do vinho tinto usando um perceptron multicamada baseado em 11 características e com qualidade, rotulada como 'quality_opinion', como variável alvo.
 
 ## Ferramentas Utilizadas
 
