@@ -8,10 +8,10 @@ parâmetros investigados foram:
 - Quantidade de neurônios por camada;
 - Quantidade de camadas;
 - Função de perda.
-- 
+
 ## Solução
 Portanto, foi utilizada uma classificação binária do conjunto de dados do vinho tinto usando um perceptron multicamada baseado em 11 características e com qualidade, rotulada como 'quality_opinion', como variável alvo.<br>
-[Red-Wine-Quality-Classifier-with-MLP-Neural-Network.ipynb](https://github.com/AlessandroVasconcelos/Aplicacao_Java_WEB_em_MVC/blob/main/Projeto%2002%20(Banco%20de%20Dados)/veiculos.sql)
+- [Red-Wine-Quality-Classifier-with-MLP-Neural-Network.ipynb](https://github.com/AlessandroVasconcelos/Aplicacao_Java_WEB_em_MVC/blob/main/Projeto%2002%20(Banco%20de%20Dados)/veiculos.sql)
 
 ## Professor/Orientador:
 Gilzamir Ferreira Gomes.
