@@ -17,8 +17,14 @@ Portanto, foi utilizado uma classificação binária do conjunto de dados do vin
 Gilzamir Ferreira Gomes.
 
 ## Ferramentas Utilizadas
+## Ferramentas Utilizadas
+- <a href ="https://colab.google/"><img src="https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
+<a href ="https://docs.anaconda.com/ae-notebooks/user-guide/basic-tasks/apps/jupyter/index.html"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+<a href ="https://www.anaconda.com/download"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+- <a href = "https://www.python.org/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href ="https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html"><img src="https://img.shields.io/badge/sklearn.neural_network.MLPClassifier%20-1B6AC6?style=for-the-badge%20netbeans%20IDE&logoColor=white"></a>
 
-- <a href ="https://www.anaconda.com/download"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
-- <a href ="https://anaconda.org/anaconda/orange3"><img src="https://img.shields.io/badge/Orange3 :: Anaconda%20-1B6C6?style=for-the-badge%20netbeans%20IDE&logoColor=white"></a>
-- <a href ="https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html"><img src="https://img.shields.io/badge/sklearn.neural_network.MLPClassifier%20-1B6AC6?style=for-the-badge%20netbeans%20IDE&logoColor=white"></a>
+<!--
+- <a href ="https://anaconda.org/anaconda/orange3"><img src="https://img.shields.io/badge/Orange3 :: Anaconda%20-1B6C6?style=for-the-badge%20netbeans%20IDE&logoColor=white"></a> 
+-->
 
