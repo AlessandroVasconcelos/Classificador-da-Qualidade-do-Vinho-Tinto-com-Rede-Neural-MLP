@@ -17,7 +17,6 @@ Portanto, foi utilizado uma classificação binária do conjunto de dados do vin
 Gilzamir Ferreira Gomes.
 
 ## Ferramentas Utilizadas
-## Ferramentas Utilizadas
 - <a href ="https://colab.google/"><img src="https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
 <a href ="https://docs.anaconda.com/ae-notebooks/user-guide/basic-tasks/apps/jupyter/index.html"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
 <a href ="https://www.anaconda.com/download"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
