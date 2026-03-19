@@ -1,4 +1,4 @@
-# Classificador da Qualidade do Vinho Tinto com Rede Neural MLP 🍷
+# 🍷 Classificador da Qualidade do Vinho Tinto com Rede Neural MLP 
 <p align="center">
   <img src="img/wine.jpg" width="100%"/>
 </p>
@@ -13,7 +13,7 @@ parâmetros investigados foram:
 - Função de perda.
 
 ## 💡 Solução
-Portanto, foi utilizado uma classificação binária do conjunto de dados do vinho tinto usando um perceptron multicamada baseado em 11 características e com qualidade, rotulada como **'quality_opinion'**, como variável alvo.<br>
+Portanto, foi utilizado uma classificação binária do conjunto de dados do vinho tinto usando um perceptron multicamada baseado em 11 características e com qualidade, rotulada como **'quality_opinion'**, como variável alvo. Aliado a isso, foi aplicado um **balanceamento de dados**, uma vez que o conjunto original apresenta desbalanceamento entre as classes. Essa etapa foi fundamental para melhorar a capacidade do modelo em identificar corretamente vinhos de alta qualidade.<br>
 - [Red-Wine-Quality-Classifier-with-MLP-Neural-Network.ipynb](https://github.com/AlessandroVasconcelos/Classificador-da-Qualidade-do-Vinho-Tinto-com-Rede-MLP/blob/main/Red_Wine_Quality_Classifier_with_MLP_Neural_Network.ipynb)
 
 ## 📊 Resultados e Visualizações
@@ -28,7 +28,7 @@ Abaixo estão os gráficos que detalham o desempenho do classificador e a análi
 
 A partir da análise das visualizações geradas pelo melhor modelo, podemos concluir que:
 
-* **Comportamento do Modelo (Matriz de Confusão):** A rede neural apresentou 230 Verdadeiros Negativos (VN), classificando corretamente vinhos de baixa qualidade (classe Baixa). Foram observados 43 Falsos Positivos (FP), onde vinhos de baixa qualidade foram erroneamente classificados como de alta, 19 Falsos Negativos (FN), indicando casos em que o modelo não identificou vinhos de alta qualidade, e 28 Verdadeiros Positivos (VP), representando os acertos na classe de vinhos de alta qualidade (classe Alta).
+* **Comportamento do Modelo (Matriz de Confusão):** A rede neural apresentou 228 Verdadeiros Negativos (VN), classificando corretamente vinhos de baixa qualidade (classe Baixa). Foram observados 45 Falsos Positivos (FP), onde vinhos de baixa qualidade foram erroneamente classificados como de alta, 9 Falsos Negativos (FN), indicando casos em que o modelo não identificou vinhos de alta qualidade, e 38 Verdadeiros Positivos (VP), representando os acertos na classe de vinhos de alta qualidade (classe Alta).
 
 * **A Química da Qualidade (Mapa de Calor):** A análise de correlação revelou que o **Teor Alcoólico (alcohol)** é o fator isolado que mais influencia positivamente (41%) a nota do vinho, seguido pelos níveis de sulfatos. Em contrapartida, a **Acidez Volátil (volatile acidity)** é o atributo que mais derruba a qualidade (-27%), pois em altos níveis confere ao vinho um indesejado sabor de vinagre.
 
