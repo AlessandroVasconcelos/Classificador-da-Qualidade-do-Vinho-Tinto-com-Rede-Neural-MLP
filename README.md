@@ -36,7 +36,7 @@ Dessa forma, a topologia da rede MLP conseguiu capturar com sucesso não apenas 
 ## 👨‍🏫 Professor/Orientador:
 Gilzamir Ferreira Gomes.
 
-## 🛠️ Ferramentas Utilizadas:
+## 🛠️ Tecnologias Utilizadas:
 
 <a href="https://docs.anaconda.com/ae-notebooks/user-guide/basic-tasks/apps/jupyter/index.html"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
