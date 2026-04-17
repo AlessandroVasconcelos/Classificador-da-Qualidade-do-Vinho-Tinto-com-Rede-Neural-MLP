@@ -37,13 +37,11 @@ Dessa forma, a topologia da rede MLP conseguiu capturar com sucesso não apenas 
 Gilzamir Ferreira Gomes.
 
 ## 🛠️ Ferramentas Utilizadas:
-- <a href ="https://colab.google/"><img src="https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
-<a href ="https://docs.anaconda.com/ae-notebooks/user-guide/basic-tasks/apps/jupyter/index.html"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
-<a href ="https://www.anaconda.com/download"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
-- <a href = "https://www.python.org/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href ="https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html"><img src="https://img.shields.io/badge/sklearn.neural_network.MLPClassifier%20-1B6AC6?style=for-the-badge%20netbeans%20IDE&logoColor=white"></a>
 
-<!--
-- <a href ="https://anaconda.org/anaconda/orange3"><img src="https://img.shields.io/badge/Orange3 :: Anaconda%20-1B6C6?style=for-the-badge%20netbeans%20IDE&logoColor=white"></a> 
--->
+<a href="https://docs.anaconda.com/ae-notebooks/user-guide/basic-tasks/apps/jupyter/index.html"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+
 
